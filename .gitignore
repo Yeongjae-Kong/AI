@@ -1,1 +1,8 @@
 venv/
+train/
+test/
+test.csv
+train.csv
+count.py
+sample_submission.csv
+251023_Baseline.ipynb
